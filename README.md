@@ -1,16 +1,26 @@
 # Mêitti Freitas
 
-### Hardware, software e realidade virtual · EDGE VR
+### Design de PCB em KiCad · Prototipagem de hardware · EDGE VR
 
 Desenvolvo placas, ferramentas e peças que conectam o mundo físico à VR: do esquema elétrico e layout da PCB à integração embarcada, ao gabinete e ao teste de bancada.
 
 [**Conheça a EDGE VR ↗**](https://edgevr.store) · [**Portfólio de engenharia ↗**](https://github.com/Meitti/edge-engineering-portfolio)
 
+## PCB em destaque
+
+| Projeto | Minha frente de trabalho | Estágio atual |
+| --- | --- | --- |
+| **EDGE nRF Tracker** | Esquemas e layout de PCB em KiCad; integração embarcada, iterações de gabinete e diagnóstico de bancada para tracking em VR. | Revisões de hardware e investigação de RF em andamento. |
+| **EDGE nRF Receiver** | Projeto de placa do receiver, integração embarcada e testes de rádio. | Desenvolvimento de protótipo e revisão do projeto. |
+| **EDGE Dock 10** | Eletrônica de um dock de carga com dez posições, integração mecânica e preparação de fabricação. | Múltiplas revisões; verificação de engenharia em andamento. |
+
+**Resultados por revisão:** esta apresentação pública ainda não inclui medições ou relatórios que comprovem desempenho de RF ou validação física desses projetos. As atividades descritas indicam minhas frentes de contribuição; resultados devem ser associados à revisão e às condições de teste.
+
 ![EDGE VR Smol tracker — visualização explodida do produto](edge-tracker.png)
 
 <sub>Render de produto do arquivo de trabalho EDGE. A imagem apresenta o conjunto; não é fotografia nem comprovação de validação de uma revisão de hardware.</sub>
 
-## Projetos em que trabalho
+## Outras frentes de trabalho
 
 Este é o mapa inicial do meu trabalho de 2026. Os arquivos estão sendo organizados em repositórios privados por projeto; aqui apresento o escopo e minhas contribuições. Os nomes abaixo não implicam que todos os projetos estejam concluídos ou disponíveis como código aberto.
 
@@ -18,9 +28,6 @@ Este é o mapa inicial do meu trabalho de 2026. Os arquivos estão sendo organiz
 
 | Projeto | Minha frente de trabalho |
 | --- | --- |
-| **EDGE nRF Tracker** | PCB, integração embarcada, gabinete e investigação de RF para tracking em VR. |
-| **EDGE nRF Receiver** | Projeto de placa, integração e testes de rádio do receiver. |
-| **EDGE Dock 10** | Eletrônica e integração mecânica de um dock de carga com dez posições. |
 | **EDGE LoRa Mesh** | Hardware de nó LoRa com GNSS, baseado em RAK4630/L76K, com alvo de firmware Meshtastic. |
 | **EDGE OpenShock** | Projeto de hardware de hub e integração com o ecossistema OpenShock. |
 | **EDGE Babble** | Placa e integração de câmera para tracking de boca, no ecossistema Project Babble/OpenIris. |
@@ -61,6 +68,8 @@ Este é o mapa inicial do meu trabalho de 2026. Os arquivos estão sendo organiz
 Procuro manter a ligação entre projeto e uso: documentar revisões, conferir interfaces e encaixes e distinguir o que foi medido, o que é protótipo e o que ainda precisa ser verificado.
 
 ## In English
+
+**PCB design in KiCad and hardware prototyping.** Featured projects: EDGE nRF Tracker, EDGE nRF Receiver and EDGE Dock 10. Hardware revisions, prototype development and engineering verification are in progress; revision-specific measurement and validation reports are not included in this public presentation.
 
 I build hardware, software and mechanical tools for VR products at EDGE: PCB design, embedded integration, LoRa/GNSS hardware, programming tools, test fixtures, printed enclosures and product visualization. The catalog above presents my areas of contribution; engineering archives are being organized gradually in private repositories.
 
