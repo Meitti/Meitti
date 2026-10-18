@@ -31,7 +31,6 @@ Este é o mapa inicial do meu trabalho de 2026. Os arquivos estão sendo organiz
 | Projeto | Minha frente de trabalho |
 | --- | --- |
 | **EDGE Flasher** | Interface e ferramentas de gravação nRF, identificação do alvo, preparação de kits e testes automatizados. |
-| **Dot + VRChat** | Integração de menu de avatar, OSC/OSCQuery e controle de áudio no Windows. |
 | **EDGE Bot** | Automação de processos no Discord, persistência e testes. |
 | **EDGE Web & Commerce** | Desenvolvimento e integração da presença web e do comércio da EDGE. |
 
@@ -42,7 +41,6 @@ Este é o mapa inicial do meu trabalho de 2026. Os arquivos estão sendo organiz
 | **EDGE Face Tracking** | Integração, suportes e peças para face/eye tracking. |
 | **EDGE SWD Fixture** | Adaptador passivo e gabaritos com pogo pins para gravação de trackers e receivers. |
 | **nRF DK Case** | Gabinete paramétrico para o kit de desenvolvimento Nordic nRF52840. |
-| **EDGE Strap Clip** | Trava de strap com variantes e iterações de impressão e encaixe. |
 | **Receiver Reflector** | Estudo e modelagem de acessório/refletor para o receiver, com desempenho ainda em investigação. |
 
 ### Design & apresentação
@@ -50,7 +48,6 @@ Este é o mapa inicial do meu trabalho de 2026. Os arquivos estão sendo organiz
 | Frente | Minha contribuição |
 | --- | --- |
 | **EDGE Packaging** | Geração paramétrica de berços de papel e arquivos vetoriais para corte e montagem. |
-| **Vestuário para avatares VR** | Modelagem e integração de roupas no Unity/VRChat, preservando direitos dos assets-base. |
 | **Visualização de produtos EDGE** | Renders, cenas e materiais de apresentação dos produtos. |
 | **Integração de catálogo Paper_Tracker** | Trabalho editorial e integração comercial de produto de terceiro; o hardware, a marca e as imagens são dos respectivos titulares. |
 
