@@ -1,3 +1,5 @@
+![EDGE VR — Hardware e VR](edge-cover.png)
+
 # Mêitti Freitas
 
 ### Design de PCB em KiCad · Prototipagem de hardware · EDGE VR
@@ -16,9 +18,14 @@ Desenvolvo placas, ferramentas e peças que conectam o mundo físico à VR: do e
 
 **Resultados por revisão:** esta apresentação pública ainda não inclui medições ou relatórios que comprovem desempenho de RF ou validação física desses projetos. As atividades descritas indicam minhas frentes de contribuição; resultados devem ser associados à revisão e às condições de teste.
 
+<details>
+<summary>Visualização do tracker EDGE</summary>
+
 ![EDGE VR Smol tracker — visualização explodida do produto](edge-tracker.png)
 
 <sub>Render de produto do arquivo de trabalho EDGE. A imagem apresenta o conjunto; não é fotografia nem comprovação de validação de uma revisão de hardware.</sub>
+
+</details>
 
 ## Outras frentes de trabalho
 
